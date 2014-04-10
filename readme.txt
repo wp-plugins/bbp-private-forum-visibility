@@ -44,3 +44,4 @@ Works with wordpress 3.8.1 and bbpress 2.5.3
 == Changelog ==
 1.0 Version 1
 2.0 Version 2 - settings options added
+2.1 minor readme corrections
