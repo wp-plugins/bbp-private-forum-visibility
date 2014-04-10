@@ -14,7 +14,7 @@ This Plugin displays private forums titles to non logged-in users in main index.
 
 This allows non logged-in users to see that forums exist, but have no acces to these.
 
-If selected my a non logged-in user, the use is sent to a page (determined in settings), allowing the admin to determine what information is given, eg login, registration, text etc.
+If selected by a non logged-in user, the use is sent to a page (determined in settings), allowing the admin to determine what information is given, eg login, registration, text etc.
 
 It also has the options to 
 
@@ -43,3 +43,4 @@ Works with wordpress 3.8.1 and bbpress 2.5.3
 
 == Changelog ==
 1.0 Version 1
+2.0 Version 2 - settings options added
