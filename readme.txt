@@ -22,7 +22,7 @@ display forum content (descriptions) for sub forums
 
 remove the prefix 'private' from all private forums
 
-Works with wordpress 3.8.1 and bbpress 2.5.3
+Works with bbpress 2.5.3
 
 
 
