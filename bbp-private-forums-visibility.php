@@ -6,7 +6,7 @@ Plugin Name: bbp Private Forums Visibility
 Plugin URI: http://www.rewweb.co.uk/Private Forums Visibility/
 Description: For bbPress - displays private forums titles and optional descriptions to non-logged in users in main index, and optionally hides the prefix 'private'
 Author: Robin Wilson
-Version: 2.1
+Version: 2.0
 Author URI: http://www.rewweb.co.uk
 License: GPL2
 */
