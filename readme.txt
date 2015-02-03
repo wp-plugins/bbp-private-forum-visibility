@@ -7,7 +7,7 @@ Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-For bbPress - displays private forums titles and optional descriptions to non-logged in users in main index, and optionally hides the prefix 'private'
+For bbPress - displays private forums titles and optional descriptions to non-logged in users, and optionally hides the prefix 'private'
 
 == Description ==
 This Plugin displays private forums titles to non logged-in users in main index.
